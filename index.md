@@ -8,10 +8,12 @@ var myVar = "Hello, world!";
 ```
 
 - [x] Create a new pull request
+- [x] Edit the index file and add headers
 - [x] Add an image
 - [x] Add a Markdown
 - [x] Add a task list
 - [x] Turn on GitHub Pages
+
 
 
 
